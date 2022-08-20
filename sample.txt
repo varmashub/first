@@ -1,0 +1,3 @@
+this is my first configuration
+to save press escape and type wq for save and quit
+
